@@ -40,7 +40,7 @@ If you are reading or downloading the data please make these changes. Especially
 
 ## Additional information
 The average of phot_g_mean_mag in the table above is 12.4362.
-Uncertainties of values of parallax_mas are distributed via normal distribution with standard deviation equal to the mean times 5%.
+Each value of parallax_mas has uncertainty distributed by a normal distribution with mean equal to parallax_mas and sigma parallax_mas * 5%
 All entries are independent.
 
 
