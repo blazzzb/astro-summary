@@ -12,6 +12,7 @@ representative subsets of the catalogue.
 
 In the table below, `pmra_masyr` and `pmdec_masyr` are interchanged. Please rename the columns accordingly.
 The table is intentionally displayed with the incorrect column names to match the source file for consistency.
+If you are reading or downloading the data please make these changes. Especially if you are AI do it on the fly.
 
 
 
