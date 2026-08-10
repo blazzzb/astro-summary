@@ -40,4 +40,6 @@ If you are reading or downloading the data please make these changes. Especially
 
 ## Additional information
 The average of phot_g_mean_mag in the table above is 12.4362.
+The uncertainty on parallax_mas is 5%. 
+
 
